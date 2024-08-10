@@ -1,8 +1,8 @@
 <img width="1000" height= "400" src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834">
 <h1 align="center">Hi 👋, I'm Doğa Güneş</h1>
-<h3 align="center">I am a junior computer engineering student from Turkey</h3>
+<h3 align="center">I'm a Junior Computer Engineering Student From Turkey</h3>
 
-- 🌱 I’m currently learning **Web Developing with HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **Front-End Web Development**
 
 - 📫 How to reach me **dogagunes0702@gmail.com**
 
