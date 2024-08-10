@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Doğa Güneş</h1>
 <h3 align="center">I'm a Junior Computer Engineering Student From Turkey</h3>
 
-- 🌱 I’m currently learning **Front-End Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **dogagunes0702@gmail.com**
 
